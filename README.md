@@ -1,2 +1,6 @@
 # my-first-repo
-Practice account for learning git
+Nirmalveer Singh
+
+Amritsar, Punjab
+
+Meta React Native Specialization
